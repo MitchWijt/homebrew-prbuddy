@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class PrBuddy < Formula
+class Prbuddy < Formula
   desc "PR creator and publisher CLI written in Rust"
   homepage "https://github.com/MitchWijt/prBuddy"
   url "https://github.com/MitchWijt/prBuddy/releases/download/v1.0.0/prbuddy-mac.tar.gz"
