@@ -4,9 +4,9 @@
 class Prbuddy < Formula
   desc "PR creator and publisher CLI written in Rust"
   homepage "https://github.com/MitchWijt/prBuddy"
-  url "https://github.com/MitchWijt/prBuddy/releases/download/v2.0.0/prbuddy-mac.tar.gz"
-  sha256 "5d57d4f42874bda7f013c1a3ac617e61d131a9b71c04a494b5507826e589ebac"
-  version "2.0.0"
+  url "https://github.com/MitchWijt/prBuddy/releases/download/v3.0.0/prbuddy-mac.tar.gz"
+  sha256 "b63f131c97b11b0b24599fe573ff84658f1d1cc9f14462b789285b2c9e26574e"
+  version "3.0.0"
 
   def install
     bin.install "pr_buddy"
